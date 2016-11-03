@@ -14,6 +14,10 @@ namespace PPAMS.DAL
         List<BookInfo> IBookInfoService.GetAll()
         {
             throw new NotImplementedException();
+
+            //
+            //Hello
+            //
         }
 
         BookInfo IBookInfoService.GetById(long categotyId)
