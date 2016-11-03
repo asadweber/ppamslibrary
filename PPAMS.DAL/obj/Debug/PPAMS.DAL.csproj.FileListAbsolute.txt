@@ -1,0 +1,15 @@
+D:\PPAMS_Library\PPAMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\PPAMS.DAL.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\PPAMS.DAL.pdb
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\PPAMS.Entity.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\PPAMS.Service.dll
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\PPAMS.Service.pdb
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\PPAMS.Entity.pdb
+D:\PPAMS_Library\PPAMS.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\PPAMS_Library\PPAMS.DAL\obj\Debug\PPAMS.DAL.dll
+D:\PPAMS_Library\PPAMS.DAL\obj\Debug\PPAMS.DAL.pdb

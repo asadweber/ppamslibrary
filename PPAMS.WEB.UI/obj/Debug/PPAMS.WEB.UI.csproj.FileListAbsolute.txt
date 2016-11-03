@@ -1,0 +1,17 @@
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.WEB.UI.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.WEB.UI.pdb
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.Entity.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.Service.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.Entity.pdb
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.Service.pdb
+D:\PPAMS_Library\PPAMS.WEB.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\PPAMS_Library\PPAMS.WEB.UI\obj\Debug\PPAMS.WEB.UI.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\obj\Debug\PPAMS.WEB.UI.pdb
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.DAL.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\Microsoft.Practices.Unity.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\PPAMS.DAL.pdb
+D:\PPAMS_Library\PPAMS.WEB.UI\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml

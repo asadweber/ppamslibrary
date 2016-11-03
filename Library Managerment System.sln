@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPAMS.Entity", "PPAMS.Entity\PPAMS.Entity.csproj", "{9C9E10A4-0C13-4116-AF49-FB21FC95D85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPAMS.DAL", "PPAMS.DAL\PPAMS.DAL.csproj", "{AB782D8A-5D41-4DCE-B348-0535F9960147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPAMS.WEB.UI", "PPAMS.WEB.UI\PPAMS.WEB.UI.csproj", "{C0ED09AA-6C05-4543-9885-DD20AE1B124C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPAMS.Service", "PPAMS.Service\PPAMS.Service.csproj", "{C20C5B5F-86EA-47B8-9F2B-1CBE7106D904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9E10A4-0C13-4116-AF49-FB21FC95D85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9E10A4-0C13-4116-AF49-FB21FC95D85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9E10A4-0C13-4116-AF49-FB21FC95D85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9E10A4-0C13-4116-AF49-FB21FC95D85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB782D8A-5D41-4DCE-B348-0535F9960147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB782D8A-5D41-4DCE-B348-0535F9960147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB782D8A-5D41-4DCE-B348-0535F9960147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB782D8A-5D41-4DCE-B348-0535F9960147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0ED09AA-6C05-4543-9885-DD20AE1B124C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ED09AA-6C05-4543-9885-DD20AE1B124C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ED09AA-6C05-4543-9885-DD20AE1B124C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ED09AA-6C05-4543-9885-DD20AE1B124C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20C5B5F-86EA-47B8-9F2B-1CBE7106D904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20C5B5F-86EA-47B8-9F2B-1CBE7106D904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20C5B5F-86EA-47B8-9F2B-1CBE7106D904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20C5B5F-86EA-47B8-9F2B-1CBE7106D904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

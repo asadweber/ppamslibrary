@@ -1,0 +1,7 @@
+D:\PPAMS_Library\PPAMS.Service\bin\Debug\PPAMS.Service.dll
+D:\PPAMS_Library\PPAMS.Service\bin\Debug\PPAMS.Service.pdb
+D:\PPAMS_Library\PPAMS.Service\bin\Debug\PPAMS.Entity.dll
+D:\PPAMS_Library\PPAMS.Service\bin\Debug\PPAMS.Entity.pdb
+D:\PPAMS_Library\PPAMS.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\PPAMS_Library\PPAMS.Service\obj\Debug\PPAMS.Service.dll
+D:\PPAMS_Library\PPAMS.Service\obj\Debug\PPAMS.Service.pdb
